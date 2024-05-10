@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<head>
+    <title>actividades</title>
+    <meta charset="UTF=8">
+</head>
+<body>
+    <script>
+        var valor1=parseInt(prompt("ingrese un numero: "));
+        var valor2=0
+        if (valor1>valor2){
+            document.write("el numero es positivo")
+        }
+        else {if (valor1<valor2)
+            document.write("el numero es negativo")
+        } { if (valor1==valor2){
+            document.write("el numero es 0")  }
+        
+    }
+       
+
+    </script>   
+</body>
+</html>
